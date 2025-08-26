@@ -33,6 +33,7 @@ public class exercise4 {
             }
             num++;
         }
+        //b=Array.copyof(arr)
         return primes;
     }
     public static void main(String[] args) {
